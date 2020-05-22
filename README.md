@@ -1,0 +1,2 @@
+# Vidly
+Program: Vidly project  This web application allows the user to see the list of movies on the front end, getting the data using AJAX request to the vidly API.  On the admin module, user has the ability to see the list of Movies and Genres that are automatically mapped to DB thanks to Django Models     To finish:  - Add a menu to display links to the different pages on the system (index, catalog, about, details, order)  - Add style to /catalog page  - Finish the presentation of the /details/# page  - Improve overall presentation of the project
